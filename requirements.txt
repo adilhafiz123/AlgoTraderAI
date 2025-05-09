@@ -1,0 +1,7 @@
+yfinance>=0.2.36
+pandas>=2.2.0
+matplotlib>=3.8.0
+transformers>=4.37.0
+torch>=2.2.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0 
