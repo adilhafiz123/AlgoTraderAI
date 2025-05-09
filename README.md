@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_graphic_features_the_title_\"AlgoTraderAI.png\"" alt="AlgoTraderAI" width="600"/>
+  <img src="https://cdn.corporatefinanceinstitute.com/assets/algorithmic-trading-1024x683.jpeg"" alt="AlgoTraderAI" width="300"/>
 </p>
 
 # 🚀 AlgoTraderAI
